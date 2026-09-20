@@ -44,10 +44,13 @@ cd vibecoding-claudecode-project-388
 ## Какие товары я отслеживаю
 
 Мониторные колонки. В частности:
-- https://doctorhead.ru/product/adam_audio_a7v/
-- https://musiclab.pro/product/adam-audio-a7v/
+- https://united-music.ru/ru/adam-a4v.html
+- https://united-music.ru/ru/adam-a4v-white.html
 - https://united-music.ru/ru/adam-a7v.html
-- https://www.audiomania.ru/studijnyj_monitor/adam/adam_audio_a7v.html
+- https://united-music.ru/ru/adam-a7v-white.html
+- https://united-music.ru/ru/adam-a77h.html
+- https://united-music.ru/ru/adam-a8h-b-side.html
+- https://united-music.ru/ru/adam-a8h-a-side.html
 
 
 ## Зачем я отслеживаю цены
