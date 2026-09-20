@@ -37,3 +37,19 @@ cd vibecoding-claudecode-project-388
 ## О Хекслете
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+
+
+---
+
+## Какие товары я отслеживаю
+
+Мониторные колонки. В частности:
+- https://doctorhead.ru/product/adam_audio_a7v/
+- https://musiclab.pro/product/adam-audio-a7v/
+- https://united-music.ru/ru/adam-a7v.html
+- https://www.audiomania.ru/studijnyj_monitor/adam/adam_audio_a7v.html
+
+
+## Зачем я отслеживаю цены
+
+Для того, чтобы подгадать для себя наиболее выгодный момент покупки
