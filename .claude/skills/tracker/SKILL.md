@@ -187,7 +187,8 @@ curl -sS -X PUT -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.gi
 Сводка отправляется **каждый прогон**, в том числе когда значимых изменений нет — так видно, что трекер жив и отработал.
 
 ```bash
-python3 /Users/iakunin/Code/github.com/iakunin/vibecoding-claudecode-project-388/send.py "$SUMMARY"
+# из корня репозитория проекта
+python3 send.py "$SUMMARY"
 ```
 
 `send.py` берёт `TELEGRAM_BOT_TOKEN` и `TELEGRAM_CHAT_ID` из окружения или из `.env` рядом с собой. Токен в вывод не печатать и в репозиторий не коммитить: `.env` закрыт `.gitignore`.
